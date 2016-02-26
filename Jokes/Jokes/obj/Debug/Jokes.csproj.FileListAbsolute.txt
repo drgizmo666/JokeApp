@@ -1,0 +1,6 @@
+C:\Users\james\Documents\GitHub\Jokes\Jokes\bin\Debug\Jokes.exe.config
+C:\Users\james\Documents\GitHub\Jokes\Jokes\bin\Debug\Jokes.exe
+C:\Users\james\Documents\GitHub\Jokes\Jokes\bin\Debug\Jokes.pdb
+C:\Users\james\Documents\GitHub\Jokes\Jokes\obj\Debug\Jokes.csprojResolveAssemblyReference.cache
+C:\Users\james\Documents\GitHub\Jokes\Jokes\obj\Debug\Jokes.exe
+C:\Users\james\Documents\GitHub\Jokes\Jokes\obj\Debug\Jokes.pdb
